@@ -1,4 +1,3 @@
-# gcp_bucket_to_bq
 # Cloud Function for GCP - Data Transfer from Cloud Storage to BigQuery
 
 This Google Cloud Function is designed to be triggered by changes in a Cloud Storage bucket. Upon triggering, it transfers data from the specified bucket to a BigQuery table.
